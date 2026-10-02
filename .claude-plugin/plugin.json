@@ -8,5 +8,14 @@
   },
   "homepage": "https://kryptos.io",
   "repository": "https://github.com/Kryptoskatt/ai-plugin",
-  "keywords": ["crypto", "portfolio", "tax", "accounting", "reconciliation", "mcp"]
+  "license": "MIT",
+  "privacyPolicyUrl": "https://kryptos.io/privacy-policy",
+  "keywords": [
+    "crypto",
+    "portfolio",
+    "tax",
+    "accounting",
+    "reconciliation",
+    "mcp"
+  ]
 }
