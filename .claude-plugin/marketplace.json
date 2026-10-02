@@ -1,0 +1,15 @@
+{
+  "name": "kryptos",
+  "description": "Kryptos plugins for Claude: crypto portfolio, reconciliation, tax and accounting over the Kryptos MCP server.",
+  "owner": {
+    "name": "Kryptos",
+    "url": "https://kryptos.io"
+  },
+  "plugins": [
+    {
+      "name": "kryptos",
+      "source": "./",
+      "description": "Kryptos portfolio, reconciliation, tax-year and bookkeeping tools and skills over the Kryptos MCP server."
+    }
+  ]
+}

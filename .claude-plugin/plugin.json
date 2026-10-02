@@ -1,0 +1,12 @@
+{
+  "name": "kryptos",
+  "version": "1.0.1",
+  "description": "Kryptos crypto portfolio, transaction, tax and accounting tools for your Kryptos workspace — get started by connecting wallets, review and reconcile your data, prepare a tax year, and run crypto bookkeeping with Xero, QuickBooks or Softledger.",
+  "author": {
+    "name": "Kryptos",
+    "url": "https://kryptos.io"
+  },
+  "homepage": "https://kryptos.io",
+  "repository": "https://github.com/Kryptoskatt/ai-plugin",
+  "keywords": ["crypto", "portfolio", "tax", "accounting", "reconciliation", "mcp"]
+}
