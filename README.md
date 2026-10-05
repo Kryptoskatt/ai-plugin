@@ -1,3 +1,5 @@
+[![AllMCPs Verified](https://allmcps.com/api/badge/kryptos)](https://allmcps.com/mcp/kryptos?verify=5e1d0541-ec01-4995-981f-eff27cb72a21)
+
 # Kryptos for Claude
 
 Kryptos brings your crypto portfolio, transaction history, tax figures and accounting ledger into Claude, across 5,000+ exchanges, wallets and blockchains.
